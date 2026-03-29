@@ -6,6 +6,8 @@ Built a data pipeline using Medallion Architecture (Bronze, Silver, Gold) to pro
 PySpark
 SQL
 Databricks
+**Dataset**
+Dataset sourced from Kaggle.
 **Steps**
 Data ingestion (Bronze)
 Data cleaning (Silver)
